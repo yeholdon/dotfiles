@@ -22,4 +22,4 @@
 	url = https://github.com/tmux-plugins/tpm
 [submodule "nvim"]
 	path = nvim
-	url = https://github.com/yeholdon/YesNeovim.git
+	url = git@github.com:yeholdon/YesNeovim.git
